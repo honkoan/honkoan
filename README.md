@@ -1,6 +1,6 @@
 ### Hi there!
 
-I’m currently learning frontend development.🤓 
+I’m currently learning [frontend development](https://silly-pasteur-4234a5.netlify.app/).🤓 
 <!--
 **honkoan/honkoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
