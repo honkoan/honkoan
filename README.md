@@ -1,6 +1,6 @@
-### Hi there!
+### Hi there! 🤓
 
-[My portfolio](https://honkonen-ak-portfolio.netlify.app/)
+My portfolio is [here](https://honkonen-ak-portfolio.netlify.app/).
 <!--
 **honkoan/honkoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
