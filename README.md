@@ -1,8 +1,8 @@
 ### Hi there! 
 
-🤓 I’m a [frontend developer](https://honkonen-ak-portfolio.netlify.app/) and entrepreneur.
-💻 I like solving problems and creating things with code.
-☕ I love early mornings and coffee.
+🤓 I’m a [frontend developer](https://honkonen-ak-portfolio.netlify.app/) and entrepreneur.  
+💻 I like solving problems and creating things with code.  
+☕ I love early mornings and coffee.  
 
 <!--
 **honkoan/honkoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
