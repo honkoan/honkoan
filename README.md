@@ -1,6 +1,6 @@
 ### Hi there! 
 
-🤓 I’m a [frontend developer](https://honkonen-ak-portfolio.netlify.app/) and entrepreneur.  
+🤓 I’m a [frontend developer](https://honkonen-ak-portfolio.netlify.app/) with full stack ambition.  
 💻 I like solving problems and creating things with code.  
 ☕ I love early mornings and coffee.  
 
